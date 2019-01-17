@@ -1,0 +1,28 @@
+{
+	"fileName": "afTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "eac703b7-b4b6-7c90-fa43-98baf710ae11",
+			"fileTemplateDate": "2019-01-17T10:05:35.807Z",
+			"fileTemplateCollections": [
+				"4rqsNHMGQAXnR3Tzu"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"4rqsNHMGQAXnR3Tzu"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "LbWxrvfi52rYjhB7g",
+			"possibleLanguages": [
+				"LbWxrvfi52rYjhB7g"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
