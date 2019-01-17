@@ -1,0 +1,69 @@
+{
+	"fileName": "afItem.qbl",
+	"fileTemplateRepo": "UAT_2fcdb9d7-59b4-cdcd-3fb3-00b2ef8603a6",
+	"fileTemplatePath": "4rqsNHMGQAXnR3Tzu/afTemplate.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "54d5c42e-f7b2-e6ca-33c4-b3cf66bc4307",
+			"fileItemDate": "2019-01-17T10:10:41.170Z",
+			"fileItemCollections": [
+				"4rqsNHMGQAXnR3Tzu"
+			],
+			"fileItemCollectionsForTranslation": [
+				"4rqsNHMGQAXnR3Tzu"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "LbWxrvfi52rYjhB7g",
+			"possibleLanguages": [
+				"LbWxrvfi52rYjhB7g"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "1c8e0166-3e6a-6ba4-e633-cc042fe33689",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsEditableCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsRequiredCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsMultipleCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "3b9fc000-07a1-97b1-d992-0dc935b43317",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
