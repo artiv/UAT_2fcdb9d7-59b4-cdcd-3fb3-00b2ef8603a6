@@ -1415,8 +1415,8 @@
 								"originalPublicId": "UAT_2fcdb9d7-59b4-cdcd-3fb3-00b2ef8603a6/modernFamily_vaslim",
 								"originalUrl": "https://res.cloudinary.com/qblm/video/upload/v1548103214/UAT_2fcdb9d7-59b4-cdcd-3fb3-00b2ef8603a6/modernFamily_vaslim.mp4",
 								"underlay": {
-									"show": "stripe",
 									"gravity": "south",
+									"show": false,
 									"boxcolor": {
 										"rgb": {
 											"r": 254,
