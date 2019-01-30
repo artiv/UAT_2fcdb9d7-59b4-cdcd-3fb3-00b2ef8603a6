@@ -1,0 +1,28 @@
+{
+	"fileName": "tat1.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "0c421bd0-0a57-078b-3f92-2438689e9328",
+			"fileTemplateDate": "2019-01-30T04:19:51.142Z",
+			"fileTemplateCollections": [
+				"4rqsNHMGQAXnR3Tzu"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"4rqsNHMGQAXnR3Tzu"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "LbWxrvfi52rYjhB7g",
+			"possibleLanguages": [
+				"LbWxrvfi52rYjhB7g"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
