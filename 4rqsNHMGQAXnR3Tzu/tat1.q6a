@@ -21,7 +21,76 @@
 		},
 		"fileTemplateStructure": {
 			"fileTemplateGenerics": [],
-			"fileTemplateFields": []
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "81c2968d-5618-2021-d544-46a868eda41b",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsEditableCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "04b63c8c-9ee8-f867-0b8f-594de362450c",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "2deeac97-512e-2985-fc9d-a2fe9e2011e4",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsEditableCollections": [
+							"4rqsNHMGQAXnR3Tzu"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio content?",
+						"fieldKey": "cb8c2246-c4ef-b8f3-b399-91c285f0a559",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
 		},
 		"fileTemplatePublish": {
 			"fileTemplateTypes": []
